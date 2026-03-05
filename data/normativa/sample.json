@@ -1,0 +1,130 @@
+[
+  {
+    "id": "gestion-ambiental-001",
+    "numero": "1",
+    "titulo": "Gestión de residuos sólidos urbanos — Obligaciones generales",
+    "categoria": "Gestión Ambiental",
+    "contenido": "Los propietarios, poseedores o usuarios de inmuebles ubicados en el departamento de Canelones tienen la obligación de gestionar adecuadamente los residuos sólidos que generen. Queda prohibido arrojar residuos en espacios públicos, vías de circulación, cauces de agua, terrenos baldíos o cualquier lugar no habilitado para tal fin. La infracción a esta disposición hará pasible al infractor de las sanciones establecidas en el presente digesto.",
+    "fuente": "Normativa Departamental — Dirección General de Gestión Ambiental"
+  },
+  {
+    "id": "gestion-ambiental-002",
+    "numero": "2",
+    "titulo": "Recolección de residuos domiciliarios — Horarios y condiciones",
+    "categoria": "Gestión Ambiental",
+    "contenido": "Los residuos domiciliarios deberán colocarse en contenedores habilitados o en bolsas resistentes, en la vía pública, únicamente en los horarios establecidos por la Intendencia para cada zona. La colocación de residuos fuera de los horarios establecidos, o en lugares no habilitados, constituirá infracción sancionable. Los grandes generadores (comercios, industrias, establecimientos educativos) deben contratar servicios de recolección diferenciada.",
+    "fuente": "Normativa Departamental — Dirección General de Gestión Ambiental"
+  },
+  {
+    "id": "gestion-ambiental-003",
+    "numero": "3",
+    "titulo": "Poda de árboles en espacios públicos y privados",
+    "categoria": "Gestión Ambiental",
+    "contenido": "La poda o extracción de árboles en espacios públicos requiere autorización previa de la Intendencia de Canelones. En predios privados, la poda de árboles que puedan afectar el espacio público (raíces, ramas sobre veredas) también requiere comunicación previa. La extracción de árboles en predios privados que superen los 10 cm de diámetro a 1,30 m de altura requiere autorización. Las infracciones serán sancionadas con multas y obligación de reposición.",
+    "fuente": "Normativa Departamental — Dirección General de Gestión Ambiental"
+  },
+  {
+    "id": "gestion-territorial-001",
+    "numero": "1",
+    "titulo": "Uso del suelo — Categorías de ordenamiento territorial",
+    "categoria": "Gestión Territorial",
+    "contenido": "El territorio departamental se clasifica en: Suelo Urbano (áreas consolidadas con infraestructura completa), Suelo Suburbano (áreas en proceso de urbanización), Suelo Rural (áreas destinadas a actividades agropecuarias y forestales), y Suelo Protegido (áreas con valores ambientales, paisajísticos o patrimoniales que requieren protección especial). Cada categoría tiene regímenes específicos de edificación, uso y fraccionamiento.",
+    "fuente": "Normativa Departamental — Dirección General de Gestión Territorial"
+  },
+  {
+    "id": "gestion-territorial-002",
+    "numero": "2",
+    "titulo": "Fraccionamiento de tierras — Requisitos mínimos",
+    "categoria": "Gestión Territorial",
+    "contenido": "Todo fraccionamiento de inmuebles en suelo urbano requiere aprobación departamental. Los lotes resultantes deben cumplir con el área mínima establecida para cada zona (generalmente 300 m² en zonas residenciales). El fraccionador deberá ceder a la Intendencia las áreas destinadas a espacios públicos, calles y equipamientos colectivos según los porcentajes establecidos. Se requiere certificado de afectación departamental previo a cualquier escritura.",
+    "fuente": "Normativa Departamental — Dirección General de Gestión Territorial"
+  },
+  {
+    "id": "obras-001",
+    "numero": "1",
+    "titulo": "Permisos de construcción — Requisitos y procedimiento",
+    "categoria": "Obras",
+    "contenido": "Toda obra de construcción, ampliación, refacción o demolición que supere los 10 m² de área techada requiere permiso de construcción previo otorgado por la Intendencia. Para obtener el permiso se debe presentar: planos firmados por técnico habilitado, memoria descriptiva, certificado de mensura, padrón departamental al día, y certificado de no adeudo de tributos departamentales. Las obras sin permiso serán paralizadas y el propietario multado.",
+    "fuente": "Normativa Departamental — Dirección General de Obras"
+  },
+  {
+    "id": "obras-002",
+    "numero": "2",
+    "titulo": "Alturas máximas de edificación por zona",
+    "categoria": "Obras",
+    "contenido": "Las alturas máximas permitidas varían según la zona: Zona Residencial R1 (unifamiliar): 7 metros (2 plantas). Zona Residencial R2: 11 metros (3 plantas). Zona Comercial C1: 14 metros (4 plantas). Zona Central: según plano regulador específico de cada localidad. Las construcciones que superen las alturas permitidas sin dispensa especial serán objeto de demolición parcial a costa del propietario.",
+    "fuente": "Normativa Departamental — Dirección General de Obras"
+  },
+  {
+    "id": "obras-003",
+    "numero": "3",
+    "titulo": "Veredas — Obligación de construcción y mantenimiento",
+    "categoria": "Obras",
+    "contenido": "Los propietarios de inmuebles tienen la obligación de construir y mantener en buen estado la vereda frente a su predio. La vereda debe tener un ancho mínimo de 1,80 metros libre de obstáculos para garantizar la circulación peatonal. El material mínimo es hormigón de 0,10 m de espesor. El incumplimiento faculta a la Intendencia a ejecutar la obra y cobrar el costo al propietario más un recargo del 20%.",
+    "fuente": "Normativa Departamental — Dirección General de Obras"
+  },
+  {
+    "id": "recursos-financieros-001",
+    "numero": "1",
+    "titulo": "Contribución Inmobiliaria Departamental — Hecho generador",
+    "categoria": "Recursos Financieros",
+    "contenido": "La Contribución Inmobiliaria Departamental (CID) grava la propiedad de inmuebles ubicados en el departamento de Canelones. Son contribuyentes los propietarios, usufructuarios o poseedores a cualquier título de bienes inmuebles. La base imponible se determina sobre el valor catastral asignado por la Dirección Nacional de Catastro. La alícuota varía según la categoría del inmueble (urbano, suburbano, rural) y se actualiza anualmente.",
+    "fuente": "Normativa Departamental — Dirección General de Recursos Financieros"
+  },
+  {
+    "id": "recursos-financieros-002",
+    "numero": "2",
+    "titulo": "Patente de rodados — Vehículos gravados y plazos",
+    "categoria": "Recursos Financieros",
+    "contenido": "Están gravados con la Patente de Rodados departamental todos los vehículos automotores radicados en el departamento de Canelones. El vencimiento es el 31 de enero de cada año. El pago fuera de término genera recargos del 1% mensual. Los propietarios con más de 2 años de adeudo pueden acceder a convenios de pago de hasta 36 cuotas. Las exoneraciones previstas por ley incluyen vehículos de personas con discapacidad y vehículos del Estado.",
+    "fuente": "Normativa Departamental — Dirección General de Recursos Financieros"
+  },
+  {
+    "id": "recursos-financieros-003",
+    "numero": "3",
+    "titulo": "Bromatología — Habilitación de locales de expendio de alimentos",
+    "categoria": "Recursos Financieros",
+    "contenido": "Todo local que elabore, manipule o expenda alimentos para consumo humano requiere habilitación bromatológica de la Intendencia de Canelones. La habilitación tiene vigencia anual y debe renovarse antes del 31 de marzo. Requisitos: local con instalaciones sanitarias adecuadas, cámara frigorífica según rubro, certificado de manipulación de alimentos del personal, habilitación de construcción vigente. El funcionamiento sin habilitación implica clausura inmediata.",
+    "fuente": "Normativa Departamental — Dirección General de Recursos Financieros"
+  },
+  {
+    "id": "administracion-001",
+    "numero": "1",
+    "titulo": "Habilitación comercial — Procedimiento general",
+    "categoria": "Administración",
+    "contenido": "Para habilitar un comercio en el departamento de Canelones se requiere: nota de solicitud, certificado de uso del suelo conforme (expedido por Gestión Territorial), certificado de habilitación de la construcción, cédula de identidad del titular o documentación de la empresa, y pago de la tasa correspondiente. El trámite se realiza en la oficina departamental o en los municipios. El plazo de resolución es de 15 días hábiles. La habilitación debe exhibirse en lugar visible del local.",
+    "fuente": "Normativa Departamental — Dirección General de Administración"
+  },
+  {
+    "id": "administracion-002",
+    "numero": "2",
+    "titulo": "Publicidad exterior — Carteles y anuncios",
+    "categoria": "Administración",
+    "contenido": "La instalación de carteles publicitarios en espacios públicos o visibles desde el espacio público requiere autorización departamental previa. Los carteles en fachadas de locales comerciales con información del negocio no requieren autorización si no superan los 2 m². Los carteles luminosos requieren autorización especial. La publicidad vial (rutas, accesos) está sujeta a normativa específica con distancias mínimas entre carteles. Las publicidades no autorizadas serán retiradas a costa del propietario.",
+    "fuente": "Normativa Departamental — Dirección General de Administración"
+  },
+  {
+    "id": "descentralizacion-001",
+    "numero": "1",
+    "titulo": "Municipios de Canelones — Competencias y funcionamiento",
+    "categoria": "Descentralización",
+    "contenido": "El departamento de Canelones cuenta con 30 municipios que ejercen competencias delegadas por la Intendencia en sus respectivos territorios. Los municipios pueden resolver sobre: apertura y cierre de calles locales, instalación de equipamiento público menor, gestión de espacios verdes de escala barrial, y atención ciudadana de primer nivel. Las decisiones municipales que impliquen gasto superior a 500 UR requieren ratificación de la Intendencia.",
+    "fuente": "Normativa Departamental — Dirección General de Descentralización y Participación"
+  },
+  {
+    "id": "vivienda-001",
+    "numero": "1",
+    "titulo": "Agencia de Vivienda — Programas de acceso a vivienda",
+    "categoria": "Vivienda",
+    "contenido": "La Agencia de Vivienda y Gestión del Hábitat de Canelones gestiona programas de acceso a vivienda para familias de bajos ingresos en el departamento. Los programas incluyen: lotes con servicios, mejoramiento de vivienda existente, y coordinación con el MVOT para construcción de conjuntos habitacionales. Los postulantes deben tener residencia en Canelones por al menos 2 años, no ser propietarios de inmueble, y cumplir con los criterios socioeconómicos establecidos.",
+    "fuente": "Normativa Departamental — Agencia de Vivienda y Gestión del Hábitat"
+  },
+  {
+    "id": "planificacion-001",
+    "numero": "1",
+    "titulo": "Directrices Departamentales de Ordenamiento Territorial",
+    "categoria": "Planificación",
+    "contenido": "Las Directrices Departamentales de Ordenamiento Territorial de Canelones establecen el marco estratégico para el desarrollo territorial del departamento hasta 2030. Priorizan: la consolidación de las ciudades intermedias (Las Piedras, La Paz, Pando, Santa Lucía) como polos de desarrollo; la protección de los corredores productivos agrícolas; el desarrollo turístico del corredor costero; y la mejora de la conectividad interdepartamental. Todo instrumento de ordenamiento local debe ser compatible con estas directrices.",
+    "fuente": "Normativa Departamental — Dirección de Planificación"
+  }
+]
